@@ -11,7 +11,7 @@ import entities.HourContract;
 import entities.Worker;
 import entities.enums.WorkerLevel;
 
-public class Program {
+public class CalcPayment {
 
 	public static void main(String[] args) throws ParseException {
 		Locale.setDefault(Locale.US);
